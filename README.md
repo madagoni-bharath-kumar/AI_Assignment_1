@@ -21,10 +21,3 @@ This repository contains solutions to two classic AI search problems implemented
 
 ---
 
-## ✅ Features
-- BFS and DFS implemented using class-based state representation
-- `goalTest()`, `moveGen()`, `removeSeen()`, and `reconstructPath()` used as per classroom structure
-- Output format matches expected print style
-
----
-
