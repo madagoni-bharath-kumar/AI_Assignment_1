@@ -1,4 +1,3 @@
-# AI_Assignment_1
 # AI Assignment 1
 
 This repository contains solutions to two classic AI search problems implemented using **BFS (Breadth-First Search)** and **DFS (Depth-First Search)**. All code follows the class structure and format.
