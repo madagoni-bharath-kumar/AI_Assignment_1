@@ -29,4 +29,3 @@ This repository contains solutions to two classic AI search problems implemented
 
 ---
 
-## 📂 File Structure
